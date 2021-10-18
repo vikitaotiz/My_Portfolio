@@ -2,6 +2,12 @@
 
 My Portfolio
 
+![Capture](https://user-images.githubusercontent.com/42869046/124616644-ef7b1a80-de7e-11eb-94c4-744083165cec.JPG)
+
+## Live Demo
+
+[Live Demo Link](https://vikitaotiz.github.io/My_Portfolio/)
+
 ## Authors
 
 :bust_in_silhouette: **Victor Otieno**
